@@ -1,0 +1,4 @@
+# /usr/local/apache2/bin/htpasswd -c -d pass_file user_name
+# 回车输入密码，-c 表示生成文件，-d 是以 crypt 加密。
+ganiks:CeWS3qbgiSXqY
+root:123456:用明文不起作用
